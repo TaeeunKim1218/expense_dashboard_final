@@ -4,3 +4,4 @@ plotly==6.5.2
 numpy==2.4.2
 openpyxl==3.1.5
 openai>=1.0.0
+scipy
