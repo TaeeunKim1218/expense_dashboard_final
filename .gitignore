@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.env
+*.csv
+!data/expense_raw_2024_2025.csv
