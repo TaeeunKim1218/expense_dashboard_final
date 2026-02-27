@@ -213,7 +213,7 @@ from utils.ai_analyzer import (
     f007_budget_recommendation,
     f008_build_report,
 )
-from gitignore.cohort_engine import (
+from utils.cohort_engine import (
     run_cohort_analysis,
     run_band_cohort_analysis,
     load_cohort_parquet,
